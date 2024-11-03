@@ -61,7 +61,7 @@ We welcome contributions from the community! To contribute:
 
 ## GETTING HELP
 
-If you encounter any issues, please feel free to open an issue on GitHub, or reach out through [bhuvaneswar88862@gmail.com ]. We appreciate your feedback and suggestions to improve the application.
+If you encounter any issues, please feel free to open an issue on GitHub, or reach out through [balajinanda2002@gmail.com ]. We appreciate your feedback and suggestions to improve the application.
 
 ## LICENSE
 
@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## CONTACT
 
-For any queries or further information, please contact me at [bhuvaneswar88862@gmail.com ] or connect with me on [LinkedIn](https://www.linkedin.com/in/bhuvaneswar-adi-6ba43426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+For any queries or further information, please contact me at [balajinanda2002@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/balaji-nanda-394aa9263/).
 
 ---
 
