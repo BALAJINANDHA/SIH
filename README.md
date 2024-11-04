@@ -4,10 +4,10 @@ Welcome to the Smart India Hackathon (SIH) repository! This repository documents
 
 ## TEAM MEMBERS
 
-- **[E.Bhargav reddy ]**
+- **[N.Balaji ]**
 - **[M.Ravindra Babu]**
 - **[A.Bhuvanswar ]**
-- **[N.Balaji ]**
+- **[E.Bhargav reddy ]**
 - **[S.Sowjanya]**
 - **[P.Bhavani ]**
 
